@@ -46,7 +46,8 @@ These technologies are discussed as part of the proposed response approach; thei
 - HarborPoint Health ransomware incident response report.
 - Proposed detection, investigation, containment, and recovery procedures.
 - Security improvement recommendations and response performance objectives.
-
+  
+📄 [View Full Ransomware Incident Response Report](HarborPoint%20Health%20Ransomware.pdf)
 ## Scope and Disclaimer
 This is an educational, fictional healthcare ransomware scenario. The README describes an incident response design and case study, not a verified live incident or a fully implemented detection environment.
 
